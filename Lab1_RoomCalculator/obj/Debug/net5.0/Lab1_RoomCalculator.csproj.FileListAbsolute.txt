@@ -1,0 +1,16 @@
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\bin\Debug\net5.0\Lab1_RoomCalculator.exe
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\bin\Debug\net5.0\Lab1_RoomCalculator.deps.json
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\bin\Debug\net5.0\Lab1_RoomCalculator.runtimeconfig.json
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\bin\Debug\net5.0\Lab1_RoomCalculator.runtimeconfig.dev.json
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\bin\Debug\net5.0\Lab1_RoomCalculator.dll
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\bin\Debug\net5.0\ref\Lab1_RoomCalculator.dll
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\bin\Debug\net5.0\Lab1_RoomCalculator.pdb
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\obj\Debug\net5.0\Lab1_RoomCalculator.csproj.AssemblyReference.cache
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\obj\Debug\net5.0\Lab1_RoomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\obj\Debug\net5.0\Lab1_RoomCalculator.AssemblyInfoInputs.cache
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\obj\Debug\net5.0\Lab1_RoomCalculator.AssemblyInfo.cs
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\obj\Debug\net5.0\Lab1_RoomCalculator.csproj.CoreCompileInputs.cache
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\obj\Debug\net5.0\Lab1_RoomCalculator.dll
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\obj\Debug\net5.0\ref\Lab1_RoomCalculator.dll
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\obj\Debug\net5.0\Lab1_RoomCalculator.pdb
+C:\Users\xando\source\repos\Lab1_RoomCalculator\Lab1_RoomCalculator\obj\Debug\net5.0\Lab1_RoomCalculator.genruntimeconfig.cache
