@@ -1,4 +1,4 @@
-This my solution for the Grand Circus Full-Stack C# .NET After-Hours Lab 1: Room Calculator.
+This my solution for the 2022 Grand Circus Full-Stack C# .NET After-Hours Lab 1: Room Calculator.
 
 ## ROOM CALCULATOR
 ### Objectives: 
