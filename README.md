@@ -1,4 +1,4 @@
-This my solution for Grand Circus Full-Stack C# After-Hours Lab 1: Room Calculator
+This my solution for the Grand Circus Full-Stack C# .NET After-Hours Lab 1: Room Calculator.
 
 ## ROOM CALCULATOR
 ### Objectives: 
@@ -30,17 +30,18 @@ Calculate the perimeter and area of various rooms.
 - **1 Point:** Calculate the surface area of the rooms.
 
 ### Console Preview: 
+```
+Welcome to Grand Circus’ Room Detail Generator!
 
-`Welcome to Grand Circus’ Room Detail Generator!`
+Enter Length: {user input here, for example: 24.5}
 
-`Enter Length: {user input here, for example: 24.5}`
+Enter Width: {user input here, for example: 20}
 
-`Enter Width: {user input here, for example: 20}`
+Area: {calculated: 490}
 
-`Area: {calculated: 490}`
+Perimeter: {calculated: 89 }
 
-`Perimeter: {calculated: 89 }`
+{calculated: This is a medium-sized room.}
 
-`{calculated: This is a medium-sized room.}`
-
-`Thank you for using the Room Detail Generator!`
+Thank you for using the Room Detail Generator!
+```
